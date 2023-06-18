@@ -1,0 +1,55 @@
+.Welcome{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.Welcome{
+    padding: 20px;
+    margin: 0;
+}
+
+.main-menu {
+    list-style-type: none;
+    }
+    
+ .main-menu li a{
+    text-decoration: none;
+    }
+
+.main-menu li{
+        display: inline-block;
+        }
+        nav{
+            text-align: left;
+            }
+            
+            .main-menu {
+            list-style-type: none;
+            margin: 0;
+            padding: 0 ;
+            }
+            
+            .main-menu li {
+            display: inline-block;
+            width: 80px;
+            }
+            
+            .main-menu li a {
+            text-decoration: none;
+            color: #333;
+            }
+
+            .main-menu{
+                background-color: gainsboro;
+            }
+            address{
+                text-align: center;
+            }
+
+            .add{
+                background-color: black;
+                color: white;
+                font-size: 50%;
+                padding: 20px;
+            }
